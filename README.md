@@ -10,6 +10,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/b3ba2323-692f-45e0-b020-b87921b83261)
+
 # Vehicle Damage Classification using Custom CNN and OpenCV
 
 This project focuses on building a **Vehicle Damage Classification** system using a custom Convolutional Neural Network (CNN) with PyTorch and OpenCV. The goal is to classify vehicle images into two categories: `damaged` and `whole`. The entire pipeline includes dataset preparation, custom OpenCV-based preprocessing, model training, evaluation, and visualization using Grad-CAM.
